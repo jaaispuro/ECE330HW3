@@ -1,0 +1,7 @@
+Enter First Name: Josh
+ Enter Last Name: Aispuro
+Enter Birth Month (as an integer): 11
+Enter Birth Day (as an integer): 24
+Enter Birth Year (as an integer): 1999
+Your maximum heart rate for your age ( 22) is 198.
+Target Heart rate is from 99 bpm to 168bpm.
